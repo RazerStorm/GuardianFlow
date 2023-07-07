@@ -1,0 +1,3 @@
+name: GuardianFlow
+version: '${version}'
+main: be.razerstorm.guardianflow.GuardianFlow
